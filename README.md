@@ -1,57 +1,36 @@
 # crown-dashboard
-// index.html
+# ShelterKey Crown Dashboard
 
-<!DOCTYPE html><html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ShelterKey - Crown Authority</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body><header>
-    <h1>Welcome to ShelterKey</h1>
-</header>
+Welcome to the **ShelterKey Crown Dashboard**, operating under **Sovereign Crown Authority**. This dashboard provides direct support and monitoring for veterans, fully transparent and tracked via Royal Ledger and smart contracts.
 
-<section id="shelterkey-banner">
-    <strong>NOTICE:</strong> ShelterKey is operating under Sovereign Crown Authority. Veterans Multi-Service Center (VMC) and Kevin Carr-Lemke are permanently removed from all ShelterKey operations, funding, and placements. All veterans receive direct support through Crown channels.
-</section>
+## Features
 
-<main>
-    <p>Support our veterans and help us provide emergency housing.</p>
-    <a href="donate.html" class="donate-button">Donate Now</a>
-</main>
+- **Direct Veteran Support:** All donations go directly to veterans, no middlemen.
+- **PayPal Integration:**  
+  - Donate Link: [PayPal Donate](https://www.paypal.com/donate/?hosted_button_id=2QBCUKSWCBUVL)  
+  - Monitored and tracked within the Crown Dashboard and Royal Ledger system
+- **Smart Contract Monitoring:**  
+  - Click tracking for every interaction  
+  - Virtual donation recording  
+  - Internal broadcast notifications  
+  - Immutable timestamped logs
+- **Dashboard Widget:**  
+  - Visual tracking of link activity  
+  - Live click counter  
+  - Last activity timestamp  
+  - Internal broadcast panel
+- **Automated Daily Reports:**  
+  - Summarizes clicks and donations each day  
+  - Provides engagement trends  
+  - Confirms PayPal link remains active
 
-<script src="scripts.js"></script>
+## Usage
 
-</body>
-</html>
----
-
-// styles.css body { font-family: Arial, sans-serif; background-color: #f5f5f5; margin: 0; padding: 0; text-align: center; }
-
-header { background-color: #0070BA; color: #fff; padding: 20px 0; }
-
-#shelterkey-banner { background-color: #111; color: #fff; padding: 15px; margin: 20px auto; border-radius: 8px; max-width: 800px; }
-
-main { margin: 20px; }
-
-.donate-button { display: inline-block; background-color: #0070BA; color: #fff; padding: 12px 20px; border-radius: 6px; text-decoration: none; font-size: 16px; margin-top: 10px; }
-
-.donate-button:hover { background-color: #005c8a; }
-
+1. Users can click the **Donate Now** button to contribute.  
+2. All activity is recorded in the Royal Ledger and reflected in the Crown Dashboard widget.  
+3. Daily summaries provide a snapshot of engagement for internal verification.
 
 ---
 
-// scripts.js // Optional JS functionality; leave blank for now
-
-
----
-
-// donate.html
-
-<!DOCTYPE html><html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Donate to ShelterKey</title>
-    <link rel="stylesheet" href="styles
+**Status:** ✅ Active and fully monitored  
+**Timestamp of Activation:** 2025-09-24
