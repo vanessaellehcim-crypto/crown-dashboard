@@ -1,11 +1,10 @@
 # crown-dashboard 
 
-</head>
+<head>
 <body>
-  <header>
     <h1>Welcome to ShelterKey</h1>
-  </header>
-
+  </header> </body>
+<body>
   <section class="donate">
     <a class="donate-button" href="https://www.paypal.com/donate/?hosted_button_id=2QBCUKSWCBUVL" target="_blank">
       Donate Now
@@ -20,10 +19,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Crown Console - ShelterKey</title>
   <link rel="stylesheet" href="styles.css">
-<head>
+</head>
 <body>
   <!-- Header -->
-</body>header>
+</body> <header>
     <h1>Welcome to the Crown Console</h1>
     <p>Manage ShelterKey, view scrolls, and receive donations.</p>
   </header>
