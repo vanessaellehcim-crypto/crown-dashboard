@@ -51,6 +51,10 @@ main { margin: 20px; }
 ---
 
 // donate.html
+<a href="https://www.paypal.com/donate/?hosted_button_id=2QBCUKSWCBUVL" 
+   class="donate-button" target="_blank">
+   Donate Now
+</a>
 
 <!DOCTYPE html><html lang="en">
 <head>
