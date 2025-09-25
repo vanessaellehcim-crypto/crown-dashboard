@@ -26,7 +26,10 @@
 </body>
 </html>
 ---
-
+<a href="https://www.paypal.com/donate/?hosted_button_id=2QBCUKSWCBUVL" 
+   class="donate-button" target="_blank">
+   Donate Now
+</a>
 // styles.css body { font-family: Arial, sans-serif; background-color: #f5f5f5; margin: 0; padding: 0; text-align: center; }
 
 header { background-color: #0070BA; color: #fff; padding: 20px 0; }
